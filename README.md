@@ -1,5 +1,6 @@
-# 2DDrivin
+# 2D Drivin'
 OAC Computers Final Project
+
 (c) 2002 Tyler Trezise, Nick Czerwinksi
 
 
